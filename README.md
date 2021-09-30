@@ -1,1 +1,1 @@
-# high_grade_paediatric_glioma_autopsy
+# High grade paediatric glioma autopsy project
